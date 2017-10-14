@@ -1,5 +1,0 @@
-pht-eng03@phteng03-To-be-filled-by-O-E-M:~/GitTest3/leatngit$ git reset --hard 716850
-HEAD 现在位于 716850c Xiu Gai readme.t6xt
-pht-eng03@phteng03-To-be-filled-by-O-E-M:~/GitTest3/leatngit$ git reset --hard 63a9
-HEAD 现在位于 63a978a distributed under the GPL
-pht-eng03@phteng03-To-be-filled-by-O-E-M:~/GitTest3/leatngit$ git add readme.txt 
